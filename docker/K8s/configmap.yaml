@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: apiVersion: v1
+kind: ConfigMap
+metadata:
+name: myapp
+data:
+password: admin123
